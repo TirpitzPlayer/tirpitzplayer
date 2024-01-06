@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif](https://media.tenor.com/vJh0VNq-XxYAAAAi/630-%EB%8D%B0%EB%A0%88%EC%8A%A4%ED%85%8C%EC%BF%A8.gif)" />
+  <img src="https://media.tenor.com/vJh0VNq-XxYAAAAi/630-%EB%8D%B0%EB%A0%88%EC%8A%A4%ED%85%8C%EC%BF%A8.gif" />
 </p>
 
 <!--
